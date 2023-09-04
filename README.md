@@ -1,2 +1,2 @@
-# Home-Automation
+# HomeAutomation
 Team Umbrella Senior Project
